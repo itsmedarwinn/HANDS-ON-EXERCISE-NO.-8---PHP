@@ -1,0 +1,35 @@
+body{
+font-family: Arial;
+margin: 40px;
+background-color: #f5f5f5;
+}
+
+h2{
+margin-bottom:20px;
+}
+
+form{
+border:1px solid #000;
+padding:20px;
+width:400px;
+margin-bottom:30px;
+background:white;
+}
+
+label{
+display:block;
+margin-top:10px;
+}
+
+input, select{
+width:100%;
+padding:6px;
+margin-top:3px;
+}
+
+button{
+margin-top:10px;
+padding:6px 12px;
+}
+
+
